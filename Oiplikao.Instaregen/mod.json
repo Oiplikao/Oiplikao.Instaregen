@@ -1,0 +1,8 @@
+{
+	"ApiId" : "Oiplikao.Instaregen",
+	"Name": "Instaregen",
+	"Description": "Regenerate instantly upon pressing the REGEN button in the multiplayer menu",
+	"Version": "1.1.0",
+	"Authors": ["Oiplikao"],
+	"LoadPriority": 2
+}
